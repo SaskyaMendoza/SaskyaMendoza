@@ -5,7 +5,7 @@ Un repositorio especial para compartir mi pasión por el desarrollo de software 
 ### Sobre mí
 -  Actualmente estoy aprendiendo y mejorando en nuevas tecnologías.
 -  Enfocada en construir soluciones eficientes y limpias.
--  Puedes contactarme en: **tu.correo@email.com**
+-  Puedes contactarme en: **correo@email.com**
 
 ---
 
