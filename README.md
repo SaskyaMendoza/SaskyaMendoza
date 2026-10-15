@@ -15,6 +15,6 @@ Un repositorio para compartir mi pasión por el desarrollo de software y la tecn
 
 ---
 
-![Logo](https://imgs.search.brave.com/x7ns8PUxHAtbKtgCcq0o4eIn9ZLPBigCaCaZvcSUrtc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS41NzQ2/MTI1MzE3LjkzNTUv/c3Qsc21hbGwsNTA3/eDUwNy1wYWQsNjAw/eDYwMCxmOGY4Zjgu/anBn))
+![Logo](https://imgs.search.brave.com/ajNRnu4i9lBQ8N1B6cOO_Rm1z2TJzeF_kZYsMIggmx0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZW5lc2J1ZW5vc2Rp/YXMuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA4L3Bp/b2xpbi1idWVub3Mt/ZGlhcy1mcmFzZXMt/MjktMTAyNHgxMDI0/LmpwZw)
 
 
