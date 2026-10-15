@@ -8,9 +8,9 @@ Un repositorio para compartir mi pasión por el desarrollo de software y la tecn
 -  Puedes contactarme en: **nicolemendoza222sa@gmail.com**
 
 ### Skills
-- **Frontend:** 0%
-- **Backend:** 0%
-- **Ganas de aprender:** 100%
+- **Frontend:** ==> 0%
+- **Backend:** ==> 0%
+- **Ganas de aprender:** ==> 100%
 
 
 ---
