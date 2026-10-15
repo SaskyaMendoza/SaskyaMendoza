@@ -9,6 +9,10 @@ Un repositorio para compartir mi pasión por el desarrollo de software, la tecno
 -  Dejo comentarios en mis codigos y a la siguiente semana no los entiendo.
 -  Mi Lema de Vida es "Si funciona, no lo toques".
 
+### Skills
+- **Frontend:** --> 0%
+- **Backend:** --> 0%
+- **Desesperantend:** --> 100%
 
 ---
 
