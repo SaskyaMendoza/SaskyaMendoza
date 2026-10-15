@@ -12,7 +12,7 @@ Un repositorio para compartir mi pasión por el desarrollo de software, la tecno
 ### Skills
 - **Frontend:** --> 0%
 - **Backend:** --> 0%
-- **Ganas de dejar de depender de mi familia:** --> 100%
+- **Desperatend:** --> 100%
 
 
 ---
