@@ -1,10 +1,10 @@
 # ¡Hola, soy Saskya! 
 
-Un repositorio especial para compartir mi pasión por el desarrollo de software y la tecnología.
+Un repositorio para compartir mi pasión por el desarrollo de software y la tecnología.
 
 ### Sobre mí
 -  Actualmente estoy aprendiendo y mejorando en nuevas tecnologías.
--  Enfocada en construir soluciones eficientes y limpias.
+-  Enfocada en construir soluciones a los problemas y crear.
 -  Puedes contactarme en: **nicolemendoza222sa@gmail.com**
 
 ### Skills
