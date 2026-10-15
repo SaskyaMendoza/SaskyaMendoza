@@ -4,7 +4,7 @@ Un repositorio para compartir mi pasión por el desarrollo de software, la tecno
 
 ### Sobre mí
 -  Mi metodo favorito es "arreglado por favor que funcione"
--  Siempre quise teclear cosas rapido y decir "Estamos dentro"
+-  Siempre quise teclear rapido y decir "Estamos dentro"
 -  La mayoria del tiempo estoy pensando en que nombres bonitos ponerle a mis variables.
 -  Dejo comentarios en mis codigos y a la siguiente semana no los entiendo.
 -  Mi Lema de Vida es "Si funciona, no lo toques".
