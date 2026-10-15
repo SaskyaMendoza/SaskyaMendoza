@@ -1,6 +1,6 @@
 # ¡Hola, soy Saskya! 
 
-Un repositorio para compartir mi pasión por el desarrollo de software, la tecnología y mi meta secreta de programar mi propio androide enviado por CyberLife. Te amo, Connor. 
+Un repositorio para compartir mi pasión por el desarrollo de software, la tecnología y mi meta secreta de programar mi propio androide enviado por CyberLife.
 
 ### Sobre mí
 -  Mi metodo favorito es "ArreglaloPorFavorQueFuncione()"
