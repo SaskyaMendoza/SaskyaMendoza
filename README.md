@@ -3,14 +3,15 @@
 Un repositorio para compartir mi pasión por el desarrollo de software y la tecnología.
 
 ### Sobre mí
--  Actualmente estoy aprendiendo y mejorando en nuevas tecnologías.
--  Enfocada en construir soluciones a los problemas y crear.
--  Puedes contactarme en: **nicolemendoza222sa@gmail.com**
+-  Mi metodo favorito es "arreglado por favor que funcione"
+-  El 10% de mi tiempo me la paso buscando el ; que me faltaba y el otro 90% estoy pensando en que nombres bonitos ponerle a mis variables.
+-  Dejo comentarios en mis codigos y a la siguiente semana no los entiendo.
+-  Mi Lema de Vida es "Si funciona, no lo toques".
 
 ### Skills
 - **Frontend:** ==> 0%
 - **Backend:** ==> 0%
-- **Ganas de aprender:** ==> 100%
+- **Ganas de dejar de depender de mi familia:** ==> 100%
 
 
 ---
