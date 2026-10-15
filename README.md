@@ -3,7 +3,7 @@
 Un repositorio para compartir mi pasión por el desarrollo de software, la tecnología y mi meta secreta de programar mi propio androide enviado por CyberLife. Te amo, Connor. 
 
 ### Sobre mí
--  Mi metodo favorito es "arreglalo por favor que funcione"
+-  Mi metodo favorito es "ArreglaloPorFavorQueFuncione()"
 -  Siempre quise teclear rapido y decir "Estamos dentro"
 -  La mayoria del tiempo estoy pensando en que nombres bonitos ponerle a mis variables.
 -  Dejo comentarios en mis codigos y a la siguiente semana no los entiendo.
