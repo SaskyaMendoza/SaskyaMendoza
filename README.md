@@ -7,6 +7,12 @@ Un repositorio especial para compartir mi pasión por el desarrollo de software 
 -  Enfocada en construir soluciones eficientes y limpias.
 -  Puedes contactarme en: **correo@email.com**
 
+### Skills
+- **Frontend:** ░░░░░░░░░░ 0%
+- **Backend:** ░░░░░░░░░░░░ 0%
+- **Ganas de aprender:** ▓▓▓▓▓▓▓▓▓▓ 100%
+
+
 ---
 
 ![Logo](https://imgs.search.brave.com/x7ns8PUxHAtbKtgCcq0o4eIn9ZLPBigCaCaZvcSUrtc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS41NzQ2/MTI1MzE3LjkzNTUv/c3Qsc21hbGwsNTA3/eDUwNy1wYWQsNjAw/eDYwMCxmOGY4Zjgu/anBn)
