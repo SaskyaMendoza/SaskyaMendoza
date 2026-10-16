@@ -2,7 +2,7 @@
 
 Un repositorio para compartir mi pasión por el desarrollo de software, la tecnología y mi meta secreta es programar mi propio androide enviado por CyberLife.
 
-### Sobre mí
+##Sobre mí
 -  Mi metodo favorito es "ArreglaloPorFavorQueFuncione()"
 -  Siempre quise teclear rapido y decir "Estamos dentro"
 -  La mayoria del tiempo estoy pensando en que nombres bonitos ponerle a mis variables.
